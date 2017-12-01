@@ -1,0 +1,15 @@
+
+public class MyInitials 
+{
+	public static void main( String[] args)
+	{
+		System.out.println("DDDD	    A	 	K   K");
+		System.out.println("D   D	  A   A  	K  K");
+		System.out.println("D   D	A       A	K K");
+		System.out.println("D   D	AAAAAAAAA	KK");
+		System.out.println("D   D	A       A	K K");
+		System.out.println("DDDD	A       A	K  k");
+		
+		
+	}
+}
