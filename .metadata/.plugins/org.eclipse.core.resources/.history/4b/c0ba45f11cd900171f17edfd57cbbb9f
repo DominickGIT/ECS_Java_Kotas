@@ -1,0 +1,10 @@
+
+public class UsingVariables
+{
+	public static void main( String[] args ) 
+	{
+		int roomNumber = 0;
+		System.out.println("This is room number #");
+		
+	}
+}
