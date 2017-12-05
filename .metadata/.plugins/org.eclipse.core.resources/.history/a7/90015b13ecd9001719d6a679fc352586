@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class UserInputOfData 
+{
+	public static void main( String[] args)
+	{
+		Scanner keyboard = new Scanner(System.in);
+		
+		String name, lastname, login;
+		int grade, id;
+		double GPA;
+		
+		name = keyboard.next();
+		System.out.println("First name:");
+	}
+}

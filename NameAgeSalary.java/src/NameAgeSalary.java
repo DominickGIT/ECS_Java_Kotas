@@ -21,11 +21,6 @@ public class NameAgeSalary
 		pay = keyboard.nextDouble();
 		
 		System.out.println("Wow, " + pay + " is a lot for your age!");
-		
-		
-		
-		
-		
-		
+			
 	}
 }

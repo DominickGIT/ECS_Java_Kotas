@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class UserInputOfData 
+{
+	public static void main( String[] args)
+	{
+		Scanner keyboard = new Scanner(System.in);
+		
+		String name, lastname, login;
+		int grade, id;
+		double GPA;
+		
+		System.out.println("First name:");
+		name = keyboard.next();
+		System.out.println("Last name:");
+		lastname = keyboard.next();
+		System.out.println("Grade (9-12):");
+		grade = keyboard.nextInt();
+		System.out.println("Student ID:");
+		id = keyboard.nextInt();
+		
+		
+	}
+}
