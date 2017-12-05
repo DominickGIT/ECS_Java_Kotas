@@ -20,6 +20,7 @@ public class MySchedule
 		System.out.println("|Per 3  |	" + English + "    |    " + Leal + "      |" );
 		System.out.println("|Per 4  |	" + Span + "    |    " + Gomez + "     |" );
 		System.out.println("-------------------------------------------");
+	
 		
 		
 	}

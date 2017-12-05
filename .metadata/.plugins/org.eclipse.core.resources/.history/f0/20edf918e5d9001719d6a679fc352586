@@ -1,0 +1,8 @@
+
+public class KeyboardInputs 
+{
+	public static void main( String[] args) 
+	{
+		if(8 %2 ==0) println("option1");
+	}
+}
