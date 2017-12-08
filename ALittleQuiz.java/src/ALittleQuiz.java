@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ALittleQuiz 
+public class ALittleQuiz //313
 {
 	public static void main( String[] args)
 	{
